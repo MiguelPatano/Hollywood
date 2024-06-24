@@ -5,7 +5,11 @@ Este proyecto se centra en analizar y visualizar datos de películas de Hollywoo
 En la parte final añadimos un recomendador de peliculas y un juego donde visualizamos datos interesantes con la fecha de nacimiento de una persona.
 
 
-Fué creado por Miguel Fernández y Miguel Patano para su proyecto de final de bootcamp en upgrade hub
+Fué creado por:
+Miguel Fernández:https://github.com/MIGUEL98FDEZ
+Miguel Patano: https://github.com/MiguelPatano/
+
+para su proyecto de final de bootcamp en upgrade hub
 
 A continuación se detalla el flujo de trabajo y los pasos necesarios para ejecutar el código correctamente.
 
