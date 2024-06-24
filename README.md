@@ -11,7 +11,7 @@ Miguel Patano: https://github.com/MiguelPatano/
 
 para su proyecto de final de bootcamp en upgrade hub
 
-Para la división por eras en el cine de Holliwood usamos:
+Para la división por eras en el cine de Hollywood usamos:
 
 1. Era del Cine Mudo (1890s-1920s)
 Características: Las primeras películas eran mudas y en blanco y negro. La narrativa visual y la actuación eran muy expresivas debido a la ausencia de sonido.
