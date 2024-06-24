@@ -1,7 +1,11 @@
 # Hollywood
 *****Descripción del Proyecto*****
 
-Este proyecto se centra en analizar y visualizar datos de películas de Hollywood utilizando Python y Streamlit. 
+Este proyecto se centra en analizar y visualizar datos de películas de Hollywood utilizando Python y Streamlit. Puedes visualizar los datos filtrando por Eras de la historia del cine en Hollywwod.
+En la parte final añadimos un recomendador de peliculas y un juego donde visualizamos datos interesantes con la fecha de nacimiento de una persona.
+
+
+Fué creado por Miguel Fernández y Miguel Patano para su proyecto de final de bootcamp en upgrade hub
 
 A continuación se detalla el flujo de trabajo y los pasos necesarios para ejecutar el código correctamente.
 
