@@ -1,4 +1,4 @@
-# Hollywood
+# Exploring Hollywood Cinema
 *****Descripción del Proyecto*****
 
 Este proyecto se centra en analizar y visualizar datos de películas de Hollywood utilizando Python y Streamlit. Puedes visualizar los datos filtrando por Eras de la historia del cine en Hollywwod.
